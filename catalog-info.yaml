@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: task-tracker
+  annotations:
+    github.com/project-slug: Ben-Denzel/task-tracker
+spec:
+  type: other
+  lifecycle: unknown
+  owner: ben
